@@ -67,9 +67,6 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="" height="300" width="500"></p>
 
-https://skyline.github.com/rakeshgowdan/2019
-
-<p align="center"><img src="https://skyline.github.com/rakeshgowdan/2019" alt="" height="300" width="500"></p>
 
 <!--
 **rakeshgowdan/rakeshgowdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
