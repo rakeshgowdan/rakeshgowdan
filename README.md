@@ -4,7 +4,6 @@ Hi 👋 My name is Rakesh N
 Full Stack Developer with DevOps skill
 --------------------------------------
 
-Hi!! I'm<Rakesh/> Full Stack Developer(ReactJS + Java )/Technical Trainer Through Constant Practice & Learning, I Produce Aesthetic Software To A High Standard
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [https://rakeshgowdan.github.io](http://rakeshgowdan.github.io)
