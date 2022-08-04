@@ -1,7 +1,7 @@
 Hi 👋 My name is Rakesh N
 =========================
 
-Full Stack Developer with DevOps skill
+Full Stack Developer with AWS & DevOps Knowledge 
 --------------------------------------
 
 
