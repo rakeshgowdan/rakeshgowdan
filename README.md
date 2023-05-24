@@ -10,8 +10,12 @@ Full Stack Developer with AWS & DevOps Knowledge
 *   ✉️  You can contact me at [rakeshgowda3101@gmail.com](mailto:rakeshgowda3101@gmail.com)
 *   🧠  I'm learning DevSecOps & Cloud Native
 *   🤝  I'm open to collaborating on any project supports
+*   [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/rakeshgowda3101/my-stack)
 
 ### Skills
+
+
+
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
