@@ -5,7 +5,7 @@ Full Stack Developer with AWS & DevOps Knowledge
 --------------------------------------
 
 
-*   🌍  I'm based in India
+*   🌍  I'm based in Bengaluru, Karnataka, India
 *   🖥️  See my portfolio at [https://rakeshgowdan.github.io](http://rakeshgowdan.github.io)
 *   ✉️  You can contact me at [rakeshgowda3101@gmail.com](mailto:rakeshgowda3101@gmail.com)
 *   🧠  I'm learning DevSecOps & Cloud Native
